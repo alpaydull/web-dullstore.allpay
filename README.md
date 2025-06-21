@@ -1,2 +1,2 @@
-# web-dullstore.allpay
+# DullStore.Web.payment
 tak de
